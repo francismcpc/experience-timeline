@@ -23,6 +23,7 @@ This repository showcases an interactive and visually appealing timeline of educ
 Screenshots
 ![exp](https://github.com/francismcpc/experience-timeline/assets/119109562/702df23c-5bc0-4810-8250-837a7de51968)
 ![expm](https://github.com/francismcpc/experience-timeline/assets/119109562/4ce4e998-7c04-4738-bbe1-538e3e429c11)
+![expm1](https://github.com/francismcpc/experience-timeline/assets/119109562/e2043ab5-3209-4342-a02b-40bc0231f8eb)
 
 ## Acknowledgements
 - FontAwesome icons provided by FontAwesome.
