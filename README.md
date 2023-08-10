@@ -9,16 +9,16 @@ This repository showcases an interactive and visually appealing timeline of educ
 - FontAwesome Icons: Icons from FontAwesome are used to enhance the design and provide visual cues.
   
 ## Technologies Used
--HTML, CSS, JavaScript: The project is built using these core web technologies to create an interactive and visually appealing timeline.
--FontAwesome: Icons from the FontAwesome library are utilized to enhance the design and provide visual elements.
--Intersection Observer API: The Intersection Observer API is used to determine whether timeline items are within the viewport, triggering their display.
+- HTML, CSS, JavaScript: The project is built using these core web technologies to create an interactive and visually appealing timeline.
+- FontAwesome: Icons from the FontAwesome library are utilized to enhance the design and provide visual elements.
+- Intersection Observer API: The Intersection Observer API is used to determine whether timeline items are within the viewport, triggering their display.
 
 ## How to Use
--Clone the repository to your local machine using git clone.
--Open the index.html file in a web browser to view the timeline.
--Scroll down to reveal each milestone as they come into the viewport.
--Explore the timeline to gain insights into the creator's educational and professional journey.
--Feel free to customize the timeline by adding your own milestones and experiences.
+- Clone the repository to your local machine using git clone.
+- Open the index.html file in a web browser to view the timeline.
+- Scroll down to reveal each milestone as they come into the viewport.
+- Explore the timeline to gain insights into the creator's educational and professional journey.
+- Feel free to customize the timeline by adding your own milestones and experiences.
 
 Screenshots
 ![exp](https://github.com/francismcpc/experience-timeline/assets/119109562/702df23c-5bc0-4810-8250-837a7de51968)
